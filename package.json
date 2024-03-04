@@ -1,0 +1,23 @@
+{
+  "name": "mongo-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amankumarsinha/mongo_nodedriver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amankumarsinha/mongo_nodedriver/issues"
+  },
+  "homepage": "https://github.com/amankumarsinha/mongo_nodedriver#readme",
+  "dependencies": {
+    "mongodb": "^6.4.0"
+  }
+}
